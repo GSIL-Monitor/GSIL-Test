@@ -1,1 +1,1 @@
-//static.galileo.xiaojukeji.com  1
+//static.galileo.xiaojukeji.com  1//static.galileo.xiaojukeji.com  2
