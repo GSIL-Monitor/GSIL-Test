@@ -1,1 +1,17 @@
-//static.galileo.xiaojukeji.com  1//static.galileo.xiaojukeji.com  2
+$appId = "351243";
+$appKey = "adsfqweg215132541t423awg14351"
+$api = "http://database.mogujie.org/api.php?appId=$appId&appKey=%appKey";
+
+//a$appId = "351243";
+$appKey = "adsfqweg215132541t423awg14351"
+$api = "http://database.mogujie.org/api.php?appId=$appId&appKey=%appKey";
+
+// $appId = "351243";
+$appKey = "adsfqweg215132541t423awg14351"
+$api = "http://database.mogujie.org/api.php?appId=$appId&appKey=%appKey";
+
+//a$appId = "351243";
+$appKey = "adsfqweg215132541t423awg14351"
+$api = "http://database.mogujie.org/api.php?appId=$appId&appKey=%appKey";
+
+// 
