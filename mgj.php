@@ -19,4 +19,4 @@ $api = "http://database.corp.qihoo.net/api.php?appId=$appId&appKey=$appKey";
 $api = "http://database.wacai.info/api.php?appId=$appId&appKey=$appKey";
 $api = "http://database.alipay.net/api.php?appId=$appId&appKey=$appKey";
 
-//yM
+//yN
